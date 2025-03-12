@@ -30,7 +30,7 @@ In this challenge, you will:
 - *Dynamically Change Button Styles Using Objects*: Use an object to store different styles and update the button appearance dynamically.
 
 ### Write a Report:
-- In your report compare your Flexbox and Grid approaches.
+- In your report provide a screenshot of the final output.
 - Include details on how you integrated data structures in your enhancements
 
 #### **Submission Requirements:**
